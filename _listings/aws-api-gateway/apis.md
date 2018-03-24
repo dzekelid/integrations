@@ -19,8 +19,8 @@ tags:
 - Gateway
 - Deployment
 - Amazon Web Services
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Integrations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-patch.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
