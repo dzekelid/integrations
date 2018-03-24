@@ -33,7 +33,7 @@ apis:
   tags: Integrations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-get.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
