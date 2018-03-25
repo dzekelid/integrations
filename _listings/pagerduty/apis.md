@@ -13,8 +13,8 @@ tags:
 - Notifications
 - Monitoring
 - Incident
-created: "2018-03-23"
-modified: "2018-03-23"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/pagerduty/apis.yaml
 specificationVersion: "0.14"
 apis: []
