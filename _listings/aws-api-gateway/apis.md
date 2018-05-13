@@ -34,7 +34,28 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-get.md
+- name: AWS API Gateway API Integrationresponse Update
+  description: Changes information about an integration response.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: http:://{host}//
+  tags: Integrations
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/integrations/master/_listings/aws-api-gateway/restapis-fugvjdxtri-resources-3kzxbg5sa2-methods-get-integration-responses-200-patch.md
 x-common:
+- type: x-documentation
+  url: https://docs.aws.amazon.com/apigateway/api-reference/
+- type: x-faq
+  url: https://aws.amazon.com/api-gateway/faqs/
+- type: x-getting-started
+  url: https://aws.amazon.com/api-gateway/getting-started/
+- type: x-partners
+  url: https://aws.amazon.com/api-gateway/partners/
+- type: x-pricing
+  url: https://aws.amazon.com/api-gateway/pricing/
+- type: x-website
+  url: https://aws.amazon.com/api-gateway/
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
 - type: x-faq
