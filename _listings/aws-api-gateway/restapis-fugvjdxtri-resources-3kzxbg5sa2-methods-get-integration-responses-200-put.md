@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS API Gateway API
+  title: AWS API Gateway API Integrationresponse Put
   version: 1.0.0
+  description: Set up an IntegrationResponse for the integration.
 schemes:
 - http
 produces:
