@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS API Gateway API
+  title: AWS API Gateway API Integration Delete
   version: 1.0.0
+  description: Deletes an integration response.
 schemes:
 - http
 produces:
