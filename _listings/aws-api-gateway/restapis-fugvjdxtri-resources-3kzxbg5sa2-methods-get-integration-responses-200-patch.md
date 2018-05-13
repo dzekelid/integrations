@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS API Gateway API
+  title: AWS API Gateway API Integrationresponse Update
   version: 1.0.0
+  description: Changes information about an integration response.
 schemes:
 - http
 produces:
